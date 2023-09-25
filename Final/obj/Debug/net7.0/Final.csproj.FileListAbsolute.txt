@@ -1,0 +1,15 @@
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.deps.json
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.dll
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.pdb
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.csproj.AssemblyReference.cache
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.dll
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/refint/Final.dll
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.pdb
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/ref/Final.dll

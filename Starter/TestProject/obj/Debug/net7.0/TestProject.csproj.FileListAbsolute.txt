@@ -1,0 +1,15 @@
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/bin/Debug/net7.0/TestProject
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/s2200711/Desktop/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/TestProject/obj/Debug/net7.0/ref/TestProject.dll
